@@ -1,0 +1,16 @@
+
+button {
+    width: 200px;
+    height: 50px;
+    margin-right: 15px;
+    margin-top: 20px;
+}
+
+.card-container {
+    position: relative;
+    padding-top: 100px;
+    left: 25%;
+    text-align: center;
+    align-items: center;
+    width: 50%;
+}
